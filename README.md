@@ -1,23 +1,29 @@
-### Hi there 👋, This is Umma Atia
-#### Django Developer
-![Django Developer](https://github.com/umma-atia/umma-atia/blob/main/42089907_8961162.jpg)
+<h1 align="center">Hi 👋, I'm Umma Atia</h1>
+<h3 align="center">A passionate Django Developer</h3>
 
-I am passionate about creating dynamic, efficient, and user-friendly websites and applications. With expertise in web development and a strong foundation in Django, I specialize in building scalable backend solutions, integrating APIs, and designing seamless user interfaces. My goal is to transform ideas into functional and visually appealing digital experiences.
+- 🔭 I’m currently working on **full-stack project with Django and React**
 
-Skills: Python, Django REST framework, Javascript
+- 🌱 I’m currently learning **Automation**
 
-- 🔭 I’m currently working on full-stack project with Django and React 
-- 🌱 I’m currently learning Automation 
-- 📫 How to reach me: ummaatia11@gmail.com 
+- 👨‍💻 All of my projects are available at [https://umma-atia-portfolio.vercel.app/](https://umma-atia-portfolio.vercel.app/)
 
+- 💬 Ask me about **Django, React**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/umma-atia)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/umma-atia-2428883a0//)  
+- 📫 How to reach me **ummaatia11@gmail.com**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=umma-atia)](https://github.com/ryo-ma/github-profile-trophy)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umma-atia)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=umma-atia&show_icons=true)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umma-atia&show_icons=true&locale=en&layout=compact" alt="umma-atia" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umma-atia&show_icons=true&locale=en" alt="umma-atia" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umma-atia&" alt="umma-atia" /></p>
+
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/umma-atia/contributions?format=svg&private=false)  
 
