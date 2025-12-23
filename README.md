@@ -1,5 +1,21 @@
-<h1 align="center">Hi 👋, I'm Umma Atia</h1>
-<h3 align="center">A passionate Django Developer</h3>
+<br/>
+
+<!--- title --->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Umma Atia</h1></summary>
+    <!--- typo --->
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Technical+Instructor+@PH;Passionate+Full+Stack+Web+Developer;Django+Enthusiast" alt="Typing SVG" /></a>
+  </ul>
+</div>
+
+<br/>
+
+## About Me 
+
+Hi there! I'm <b>Umma Atia</b>. I'm a passionate Software Developer with a strong focus on <b>Full Stack Development</b>. Currently sharpening my skills in backend development with Django REST framwork. I enjoy coding and learning how things work behind the scene. I believe in <b>Consistency</b>, <b>Curiosity</b> and <b>Clean-Code</b>.
+
+
 
 - 🔭 I’m currently working on **full-stack project with Django and React**
 
